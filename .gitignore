@@ -14,3 +14,9 @@
 /PriceCalculater/obj/
 
 
+/.vs/PriceCalculater/v16
+/.vs/PriceCalculater/DesignTimeBuild
+/Netcore3/Calculator.V4/bin
+/Netcore3/Calculator.V4/obj
+/Netcore3/Calculator.V4.NUnitTest/bin
+/Netcore3/Calculator.V4.NUnitTest/obj
