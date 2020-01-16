@@ -20,3 +20,7 @@
 /Netcore3/Calculator.V4/obj
 /Netcore3/Calculator.V4.NUnitTest/bin
 /Netcore3/Calculator.V4.NUnitTest/obj
+/Project.Models/obj
+/Project.Models/bin/
+/Project.DataAccess/obj
+/Project.DataAccess/bin
